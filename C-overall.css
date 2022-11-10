@@ -70,7 +70,6 @@ header{
 .header-link{
     margin:40px 20px;
     font-size:20px;
-    color:#f5deb7;
 }
 
 .header-logo{
@@ -79,6 +78,7 @@ header{
     padding:10px 20px;
     float:left;
     font-family:'Cursive';
+    color:#f5deb7;
 }
 
 .happy-text{
